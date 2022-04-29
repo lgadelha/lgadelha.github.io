@@ -59,7 +59,7 @@ github_username: lgadelha # your GitHub user name
 gitlab_username: lgadelha # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: gWzznREAAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-8122-9522 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -214,8 +214,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Gadelha
+  first_name: [Luiz, L.]
 
   style: apa
   locale: en
