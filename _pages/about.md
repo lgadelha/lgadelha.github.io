@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>FUSION Research Group</p>
-    <p>Friedrich-Schiller-University Jena</p>
-    <p>Leutragraben 1 (JenTower), Room 21S03</p>
+    <p>FSU Jena</p>
+    <p>Leutragraben 1, Room 21S03</p>
     <p>07743 Jena - Germany</p>
 
 news: true  # includes a list of news items
