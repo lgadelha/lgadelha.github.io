@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>FUSION Research Group</p>
-    <p>FSU Jena</p>
+    <p>University of Jena</p>
     <p>Leutragraben 1, Room 21S03</p>
     <p>07743 Jena - Germany</p>
 
