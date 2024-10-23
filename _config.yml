@@ -259,13 +259,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-<<<<<<< HEAD
-  last_name: [Einstein]
-  first_name: [Albert, A.]
-=======
   last_name: Gadelha
   first_name: [Luiz, L.]
->>>>>>> d3157374 (Updated _config.yml)
 
   style: apa
   locale: en
