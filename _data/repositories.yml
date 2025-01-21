@@ -5,8 +5,9 @@ github_repos:
   - lgadelha/swift-provenancedb
   - lgadelha/sdm-workflows
   - swift-lang/swift-k
+  - Model-R/modleR_shiny_app
   - GenomicDataInfrastructure/starter-kit-beacon2-ri-api
   - GenomicDataInfrastructure/starter-kit-de-deployment-notes
   - nextflow-io/nf-prov
   - EGA-archive/FEGA-onboarding
-  
+
