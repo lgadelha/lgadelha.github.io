@@ -6,6 +6,7 @@ github_repos:
   - lgadelha/sdm-workflows
   - swift-lang/swift-k
   - Model-R/modleR_shiny_app
+  - quelopes/GeNNet
   - GenomicDataInfrastructure/starter-kit-beacon2-ri-api
   - GenomicDataInfrastructure/starter-kit-de-deployment-notes
   - nextflow-io/nf-prov
