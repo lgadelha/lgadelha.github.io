@@ -4,7 +4,7 @@
     "label": "IT and Research Data Engineer",
     "image": "",
     "email": "",
-    "phone": "+49 (0170) 269-0918",
+    "phone": "",
     "url": "https://lgadelha.github.io",
     "summary": "Scientific data engineer with expertise in research data management, computational workflows, and FAIR principles. Experience in bioinformatics, biodiversity informatics, and high-performance computing.",
     "location": {
@@ -177,6 +177,7 @@
       "name": "telc Deutsch B1",
       "date": "2023-01-01",
       "issuer": "telc",
+      "url": "https://results.telc.net/qr/fiEyGtHXQJCJRkA534j7eiyWZnfXzku6qNryB7RRW0brvqdwoKlLoIIt2RfEwNrs",
       "icon": "fa-solid fa-language"
     },
     {
