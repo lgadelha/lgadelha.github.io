@@ -12,10 +12,9 @@ profile:
     <p>Heidelberg University</p>
     <p>69123 Heidelberg, Germany</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I'm an IT Engineer for Research Data Management at [Heidelberg University](https://www.uni-heidelberg.de), working in the [Cluster of Excellence GreenRobust](https://www.uni-heidelberg.de/en/research/research-profile/fields-of-focus/field-of-focus-ii-health-biology-and-earth-system-dynamics/greenrobust). I received my D.Sc. degree in Computer and Systems Engineering from the [Federal University of Rio de Janeiro](https://www.cos.ufrj.br/index.php/en/) (UFRJ), Brazil, with a doctoral internship at the [Computation Institute](https://voices.uchicago.edu/compinst/) at the University of Chicago and Argonne National Laboratory in the United States.

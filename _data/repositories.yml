@@ -1,6 +1,8 @@
 github_users:
   - lgadelha
 
+repo_description_lines_max: 2
+
 github_repos:
   - lgadelha/swift-provenancedb
   - lgadelha/sdm-workflows
@@ -11,4 +13,3 @@ github_repos:
   - GenomicDataInfrastructure/starter-kit-de-deployment-notes
   - nextflow-io/nf-prov
   - EGA-archive/FEGA-onboarding
-
