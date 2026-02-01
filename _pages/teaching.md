@@ -23,9 +23,12 @@ nav_order: 6
 
 **2020** - Global, Online
 
-Instructor in the international online course (52 instructors, 2,541 participants, 90,938 video views).
+Co-instructor (with Maria Luiza Mondelli) for the module "Scientific Workflows in ENM" in the international online course (52 instructors, 2,541 participants, 90,938 video views).
 
-- **Session**: Scientific Workflows in Ecological Niche Modeling
+### Module Materials
+- [Video](https://youtu.be/u5L-U03KjBk)
+- [Slides (PDF)](https://www.dropbox.com/s/xmt7u1q5lssrq5z/ENM2020_W34T1_FullModelReproducibility.pdf?dl=0)
+- [Additional Materials](https://www.dropbox.com/s/ofgdlbbz8lf5te7/Metal_FAIR_2019.pdf?dl=0)
 
 ### Course Outcomes
 - Contributed to a 43-week open-access educational program covering 18 major ENM/SDM topics
