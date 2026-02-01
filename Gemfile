@@ -18,7 +18,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    # gem 'mini_racer' # Optional: requires V8, skip if build fails
     gem 'unicode_utils'
     gem 'webrick'
 end

@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Luiz Gadelha",
-    "label": "IT Engineer for Research Data Management",
+    "label": "IT and Research Data Engineer",
     "image": "",
-    "email": "luiz.gadelha@protonmail.com",
+    "email": "",
     "phone": "+49 (0170) 269-0918",
     "url": "https://lgadelha.github.io",
     "summary": "Scientific data engineer with expertise in research data management, computational workflows, and FAIR principles. Experience in bioinformatics, biodiversity informatics, and high-performance computing.",
@@ -35,7 +35,7 @@
   "work": [
     {
       "name": "Heidelberg University",
-      "position": "IT Engineer for Research Data Management",
+      "position": "IT and Research Data Engineer",
       "url": "https://www.uni-heidelberg.de",
       "startDate": "2026-02-01",
       "endDate": "",
@@ -49,8 +49,8 @@
       "name": "Friedrich-Schiller-University Jena",
       "position": "Research Associate",
       "url": "https://www.uni-jena.de",
-      "startDate": "2023-03-01",
-      "endDate": "2026-01-31",
+      "startDate": "2020-02-01",
+      "endDate": "2023-02-28",
       "summary": "Research data manager for the Cluster of Excellence Balance of the Microverse",
       "highlights": [
         "Computational reproducibility improvement for microbial community analysis workflows",
@@ -61,8 +61,8 @@
       "name": "German Cancer Research Center (DKFZ)",
       "position": "Project Coordinator",
       "url": "https://www.dkfz.de",
-      "startDate": "2020-02-01",
-      "endDate": "2023-02-28",
+      "startDate": "2023-03-01",
+      "endDate": "2026-01-31",
       "summary": "Project coordination for the European Genomic Data Infrastructure (GDI)",
       "highlights": [
         "Development of reproducible and FAIR computational workflows for genome analysis",
@@ -322,8 +322,8 @@
         "GBIF node management",
         "Biodiversity data aggregation"
       ],
-      "startDate": "2004-08-01",
-      "endDate": "2020-02-01",
+      "startDate": "2012-01-01",
+      "endDate": "2015-12-31",
       "url": "https://www.sibbr.gov.br"
     },
     {
@@ -334,7 +334,7 @@
         "Disease surveillance"
       ],
       "startDate": "2014-01-01",
-      "endDate": "2020-02-01",
+      "endDate": "2019-12-31",
       "url": "https://sissgeo.lncc.br"
     }
   ]
