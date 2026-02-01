@@ -2,96 +2,154 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Luiz Gadelha
+    - name: Nationality
+      value: Brazilian
+    - name: Visa Status
+      value: Settlement permit (Niederlassungserlaubnis)
     - name: Languages
-      value: English, German
+      value: Portuguese (native), English (C2), Spanish, German (B2)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: D.Sc. in Computer and Systems Engineering
+      institution: Federal University of Rio de Janeiro, Brazil
+      year: 2007 - 2012
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Doctoral internship at Argonne National Laboratory and University of Chicago, United States (2010-2011)
+    - title: M.Sc. in Computer Science
+      institution: University of Brasília, Brazil
+      year: 1999 - 2000
+    - title: B.Sc. in Mathematics
+      institution: University of Brasília, Brazil
+      year: 1993 - 1997
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: IT Engineer for Research Data Management
+      institution: Heidelberg University, Heidelberg, Germany
+      year: Feb 2026 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Research data management in the Cluster of Excellence GreenRobust
+        - FAIR computational workflows
+        - Research IT infrastructure administration
+    - title: Research Associate
+      institution: Friedrich-Schiller-University Jena, Jena, Germany
+      year: Mar 2023 - Jan 2026
+      description:
+        - Research data manager for the Cluster of Excellence Balance of the Microverse
+        - Computational reproducibility improvement for microbial community analysis workflows
+        - Application of high performance computing methodologies to the development of microbial community analysis workflows
+    - title: Project Coordinator
+      institution: German Cancer Research Center (DKFZ), Heidelberg, Germany
+      year: Feb 2020 - Feb 2023
+      description:
+        - Project coordination for the European Genomic Data Infrastructure (GDI)
+        - Development of reproducible and FAIR computational workflows for genome analysis
+        - Tools and techniques for genomics and health data life-cycle management (discovery, access control, secure storage, analysis)
+    - title: Technologist
+      institution: National Laboratory for Scientific Computing (LNCC), Petrópolis, Brazil
+      year: Aug 2004 - Feb 2020
+      description:
+        - Implementation of high-performance bioinformatics and biodiversity workflows in Spark and Python
+        - title: Implementation of biodiversity information systems
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Brazilian Biodiversity Information System (https://www.sibbr.gov.br)
+            - Wildlife Health Information System (https://sissgeo.lncc.br)
+        - Manager of the Brazilian node in the Global Biodiversity Information Facility (GBIF)
+        - Design and implementation of a provenance management system for the Swift parallel scripting language
+        - Teaching parallel computing, algorithms, and databases courses
+        - D.Sc. and M.Sc. student supervision
+    - title: System Administrator
+      institution: Certisign Certificadora Digital S.A., Rio de Janeiro, Brazil
+      year: Apr 2001 - Aug 2004
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Development of public-key infrastructure systems using Verisign Processing Center APIs and OpenSSL in C and Java
+        - Setting up pilot environments for certificate roaming and timestamping protocol services
+        - System administration for Sun Solaris, Linux, and Verisign Processing Center systems
+    - title: Auxiliar Professor
+      institution: State University of Western Paraná, Cascavel, Brazil
+      year: Feb 2000 - Mar 2001
       description:
+        - Teaching Analysis of Algorithms and Theory of Computation courses
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Professional Skills
+  type: nested_list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Scientific Data Engineering
+      items:
+        - Data management planning, metadata management, repositories, data provenance
+        - Scientific workflows (Nextflow, CWL), semantic web
+    - title: Databases
+      items:
+        - PostgreSQL (incl. PL/pgSQL), SQLite
+    - title: Programming Languages
+      items:
+        - Python, Scala, C
+    - title: Scalable Computing
+      items:
+        - Parallel computing, Big Data (e.g. Spark), Cloud (OpenStack, AWS)
+    - title: DevOps
+      items:
+        - Docker, Git, Terraform, Ansible
+    - title: Operating Systems
+      items:
+        - Linux (RHEL and Debian/Ubuntu)
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2021
+      items:
+        - Functional Programming Principles in Scala course completion on Coursera
+    - year: 2017 - 2021
+      items:
+        - Local project coordinator - "Scalable Computational Framework for Ecological Niche Modeling" (CAPES, BRL 8,500,000.00)
+    - year: 2017
+      items:
+        - Best paper in the "Demo" track of the Brazilian Symposium on Databases (SBBD)
+    - year: 2016 - 2018
+      items:
+        - Project coordinator - "Methodologies, Tools, and Abstractions for High Productivity in Scientific Computing" (FAPERJ, BRL 400,000.00)
+    - year: 2015
+      items:
+        - Winner of the National Biodiversity Award in the Public Bodies category (Brazilian Ministry of Environment)
+    - year: 2014
+      items:
+        - Best paper in the "Health" Category at III Seminar on Great Challenges of Computing in Brazil (SBC)
+    - year: 2010 - 2011
+      items:
+        - Doctoral Internship at University of Chicago funded by CAPES (Brazil)
+
+- title: Reviewer for Scientific Journals
+  type: list
+  contents:
+    - Future Generation Computer Systems
+    - "Database: The Journal of Biological Databases and Curation"
+    - Journal of Information and Data Management
+    - PeerJ Computer Science
+    - Concurrency and Computation
+    - IEEE Transactions on Cloud Computing
+    - IEEE Transactions on Services Computing
+    - PLoS ONE
+    - Bioinformatics
+    - GigaScience
+    - Journal of Environmental Planning and Management
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Research Data Management
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - FAIR principles, data provenance, metadata management
+    - title: Computational Workflows
+      items:
+        - Nextflow, CWL, reproducibility, scalability
+    - title: High Performance Computing
+      items:
+        - Parallel computing, Big Data, Cloud computing
+    - title: Bioinformatics and Biodiversity
+      items:
+        - Genomics, ecological niche modeling, biodiversity informatics

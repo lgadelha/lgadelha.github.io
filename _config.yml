@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Luiz
 middle_name:
 last_name: Gadelha
-email: luiz.gadelh@gmail.com
+email: luiz.gadelha@protonmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -71,7 +71,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: lgadelha # your GitHub user name
 gitlab_username: lgadelha # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: luiz-gadelha-18780531 # your LinkedIn user name
 scholar_userid: gWzznREAAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-8122-9522 # your ORCID ID
 medium_username: # your Medium username
@@ -82,14 +82,14 @@ osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: https://www.fusion.uni-jena.de/people/details/luiz-gadelha # work page URL
+work_url: https://www.uni-heidelberg.de # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: http://www.informatik.uni-trier.de/~ley/pers/hd/g/Gadelha_Jr=:Luiz_M=_R= # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best reached via email or LinkedIn.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -109,7 +109,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Luiz Gadelha  # your blog must have a name for it to show up in the nav bar
-blog_description: scientific databases, computational workflows, reproducibility, e-Science
+blog_description: scientific data engineering, computational workflows, reproducibility, research data management
 permalink: /blog/:year/:title/
 
 # Pagination

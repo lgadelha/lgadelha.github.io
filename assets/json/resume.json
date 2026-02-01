@@ -1,197 +1,341 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Luiz Gadelha",
+    "label": "IT Engineer for Research Data Management",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "luiz.gadelha@protonmail.com",
+    "phone": "+49 (0170) 269-0918",
+    "url": "https://lgadelha.github.io",
+    "summary": "Scientific data engineer with expertise in research data management, computational workflows, and FAIR principles. Experience in bioinformatics, biodiversity informatics, and high-performance computing.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Am Lerchenbuckel 1-3",
+      "postalCode": "69123",
+      "city": "Heidelberg",
+      "countryCode": "DE",
+      "region": "Baden-Württemberg"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "luiz-gadelha-18780531",
+        "url": "https://linkedin.com/in/luiz-gadelha-18780531"
+      },
+      {
+        "network": "GitHub",
+        "username": "lgadelha",
+        "url": "https://github.com/lgadelha"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "gWzznREAAAAJ",
+        "url": "https://scholar.google.com/citations?user=gWzznREAAAAJ"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Heidelberg University",
+      "position": "IT Engineer for Research Data Management",
+      "url": "https://www.uni-heidelberg.de",
+      "startDate": "2026-02-01",
+      "endDate": "",
+      "summary": "Research data management in the Cluster of Excellence GreenRobust",
       "highlights": [
-        "Relativity"
+        "FAIR computational workflows",
+        "Research IT infrastructure administration"
       ]
+    },
+    {
+      "name": "Friedrich-Schiller-University Jena",
+      "position": "Research Associate",
+      "url": "https://www.uni-jena.de",
+      "startDate": "2023-03-01",
+      "endDate": "2026-01-31",
+      "summary": "Research data manager for the Cluster of Excellence Balance of the Microverse",
+      "highlights": [
+        "Computational reproducibility improvement for microbial community analysis workflows",
+        "Application of HPC methodologies to microbial community analysis workflows"
+      ]
+    },
+    {
+      "name": "German Cancer Research Center (DKFZ)",
+      "position": "Project Coordinator",
+      "url": "https://www.dkfz.de",
+      "startDate": "2020-02-01",
+      "endDate": "2023-02-28",
+      "summary": "Project coordination for the European Genomic Data Infrastructure (GDI)",
+      "highlights": [
+        "Development of reproducible and FAIR computational workflows for genome analysis",
+        "Genomics and health data life-cycle management"
+      ]
+    },
+    {
+      "name": "National Laboratory for Scientific Computing (LNCC)",
+      "position": "Technologist",
+      "url": "https://www.lncc.br",
+      "startDate": "2004-08-01",
+      "endDate": "2020-02-01",
+      "summary": "Implementation of high-performance bioinformatics and biodiversity workflows",
+      "highlights": [
+        "Brazilian Biodiversity Information System (SiBBr)",
+        "Wildlife Health Information System (SISS-Geo)",
+        "Manager of the Brazilian node in GBIF",
+        "D.Sc. and M.Sc. student supervision"
+      ]
+    },
+    {
+      "name": "Certisign Certificadora Digital S.A.",
+      "position": "System Administrator",
+      "url": "",
+      "startDate": "2001-04-01",
+      "endDate": "2004-08-01",
+      "summary": "Development of public-key infrastructure systems",
+      "highlights": [
+        "Verisign Processing Center APIs and OpenSSL development in C and Java",
+        "System administration for Sun Solaris and Linux"
+      ]
+    },
+    {
+      "name": "State University of Western Paraná",
+      "position": "Auxiliar Professor",
+      "url": "",
+      "startDate": "2000-02-01",
+      "endDate": "2001-03-01",
+      "summary": "Teaching Analysis of Algorithms and Theory of Computation courses",
+      "highlights": []
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.","Men of the year 2014 by Time magazine"
-      ]
-    }],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "institution": "Federal University of Rio de Janeiro",
+      "location": "Rio de Janeiro, Brazil",
+      "url": "https://www.cos.ufrj.br",
+      "area": "Computer and Systems Engineering",
+      "studyType": "D.Sc.",
+      "startDate": "2007-01-01",
+      "endDate": "2012-01-01",
       "courses": [
-        "Theory of Relativity"
+        "Doctoral internship at Argonne National Laboratory and University of Chicago (2010-2011)"
       ]
+    },
+    {
+      "institution": "University of Brasília",
+      "location": "Brasília, Brazil",
+      "url": "https://www.unb.br",
+      "area": "Computer Science",
+      "studyType": "M.Sc.",
+      "startDate": "1999-01-01",
+      "endDate": "2000-01-01",
+      "courses": []
+    },
+    {
+      "institution": "University of Brasília",
+      "location": "Brasília, Brazil",
+      "url": "https://www.unb.br",
+      "area": "Mathematics",
+      "studyType": "B.Sc.",
+      "startDate": "1993-01-01",
+      "endDate": "1997-01-01",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "National Biodiversity Award",
+      "date": "2015-01-01",
+      "awarder": "Ministry of Environment of Brazil",
+      "summary": "Winner in the Public Bodies category for the Wildlife Health Information System (SISS-Geo)"
+    },
+    {
+      "title": "Best paper in the 'Health' Category",
+      "date": "2014-01-01",
+      "awarder": "Brazilian Computer Society (SBC)",
+      "summary": "III Seminar on Great Challenges of Computing in Brazil"
+    },
+    {
+      "title": "Best paper in the 'Demo' track",
+      "date": "2017-01-01",
+      "awarder": "Brazilian Symposium on Databases (SBBD)",
+      "summary": "HPSW-Prof: A Provenance-Based Framework for Profiling High Performance Scientific Workflows"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Functional Programming Principles in Scala",
+      "date": "2021-02-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/28B8NJ8XDJ6N",
+      "icon": "fa-solid fa-code"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Certificate of Proficiency in English (CEFR C2)",
+      "date": "1999-01-01",
+      "issuer": "University of Michigan",
+      "icon": "fa-solid fa-language"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "telc Deutsch B1",
+      "date": "2023-01-01",
+      "issuer": "telc",
+      "icon": "fa-solid fa-language"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "German B2-level course completion",
+      "date": "2024-01-01",
+      "issuer": "DKFZ",
+      "icon": "fa-solid fa-language"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Scientific Data Engineering",
+      "level": "Expert",
+      "icon": "fa-solid fa-database",
       "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
+        "Data management planning",
+        "Metadata management",
+        "Data provenance",
+        "FAIR principles",
+        "Semantic web"
+      ]
+    },
+    {
+      "name": "Computational Workflows",
+      "level": "Expert",
+      "icon": "fa-solid fa-diagram-project",
+      "keywords": [
+        "Nextflow",
+        "CWL",
+        "Parsl",
+        "Swift"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Expert",
+      "icon": "fa-solid fa-server",
+      "keywords": [
+        "PostgreSQL",
+        "PL/pgSQL",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "Scala",
+        "C"
+      ]
+    },
+    {
+      "name": "Scalable Computing",
+      "level": "Expert",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "Parallel computing",
+        "Spark",
+        "OpenStack",
+        "AWS"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Advanced",
+      "icon": "fa-solid fa-gears",
+      "keywords": [
+        "Docker",
+        "Git",
+        "Terraform",
+        "Ansible"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-      "icon":""
+      "language": "Portuguese",
+      "fluency": "Native speaker",
+      "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent"
-      "icon":""
+      "fluency": "C2 (Proficient)",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "B2",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research Data Management",
+      "icon": "fa-solid fa-folder-open",
       "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
+        "FAIR principles",
+        "Data provenance",
+        "Metadata management"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Bioinformatics",
+      "icon": "fa-solid fa-dna",
+      "keywords": [
+        "Genomics",
+        "Metagenomics",
+        "Metabolomics"
+      ]
+    },
+    {
+      "name": "Biodiversity Informatics",
+      "icon": "fa-solid fa-leaf",
+      "keywords": [
+        "Ecological niche modeling",
+        "Species distribution modeling"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "European Genomic Data Infrastructure (GDI)",
+      "summary": "Infrastructure for managing and analyzing genomics and health data across Europe",
       "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
+        "Federated European Genome-Phenome Archive",
+        "FAIR computational workflows"
       ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2020-02-01",
+      "endDate": "2023-02-28",
+      "url": "https://gdi.onemilliongenomes.eu"
+    },
+    {
+      "name": "Brazilian Biodiversity Information System (SiBBr)",
+      "summary": "National biodiversity data infrastructure for Brazil",
+      "highlights": [
+        "GBIF node management",
+        "Biodiversity data aggregation"
+      ],
+      "startDate": "2004-08-01",
+      "endDate": "2020-02-01",
+      "url": "https://www.sibbr.gov.br"
+    },
+    {
+      "name": "Wildlife Health Information System (SISS-Geo)",
+      "summary": "Citizen science platform for monitoring wildlife health risks in Brazil",
+      "highlights": [
+        "National Biodiversity Award winner",
+        "Disease surveillance"
+      ],
+      "startDate": "2014-01-01",
+      "endDate": "2020-02-01",
+      "url": "https://sissgeo.lncc.br"
     }
   ]
 }
