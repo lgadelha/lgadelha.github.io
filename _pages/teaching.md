@@ -5,6 +5,9 @@ title: teaching
 description: Teaching experience at graduate and undergraduate levels.
 nav: true
 nav_order: 6
+_styles: >
+  .post article h2 { font-size: 1.75rem; margin-top: 2rem; }
+  .post article h3 { font-size: 1.2rem; margin-top: 1.25rem; }
 ---
 
 ## Friedrich-Schiller-University Jena (Germany)
