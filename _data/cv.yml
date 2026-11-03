@@ -4,9 +4,7 @@
     - name: Full Name
       value: Luiz Gadelha
     - name: Nationality
-      value: Brazilian
-    - name: Visa Status
-      value: Settlement permit (Niederlassungserlaubnis)
+      value: Brazilian - German
     - name: Languages
       value: Portuguese (native), English (C2), Spanish, German (B2)
 
@@ -15,20 +13,20 @@
   contents:
     - title: D.Sc. in Computer and Systems Engineering
       institution: Federal University of Rio de Janeiro, Brazil
-      year: 2007 - 2012
+      year: Sep 2007 - Aug 2012
       description:
         - Doctoral internship at Argonne National Laboratory and University of Chicago, United States (2010-2011)
     - title: M.Sc. in Computer Science
       institution: University of Brasília, Brazil
-      year: 1999 - 2000
+      year: Jul 1999 - Dec 2000
     - title: B.Sc. in Mathematics
       institution: University of Brasília, Brazil
-      year: 1993 - 1997
+      year: Aug 1993 - Jul 1997
 
 - title: Professional Experience
   type: time_table
   contents:
-    - title: IT Engineer for Research Data Management
+    - title: Data Steward
       institution: Heidelberg University, Heidelberg, Germany
       year: Feb 2026 - Present
       description:
@@ -106,13 +104,13 @@
         - Functional Programming Principles in Scala course completion on Coursera
     - year: 2017 - 2021
       items:
-        - Local project coordinator - "Scalable Computational Framework for Ecological Niche Modeling" (CAPES, BRL 8,500,000.00)
+        - Local project coordinator - "Scalable Computational Framework for Ecological Niche Modeling" (CAPES)
     - year: 2017
       items:
         - Best paper in the "Demo" track of the Brazilian Symposium on Databases (SBBD)
     - year: 2016 - 2018
       items:
-        - Project coordinator - "Methodologies, Tools, and Abstractions for High Productivity in Scientific Computing" (FAPERJ, BRL 400,000.00)
+        - Project coordinator - "Methodologies, Tools, and Abstractions for High Productivity in Scientific Computing" (FAPERJ)
     - year: 2015
       items:
         - Winner of the National Biodiversity Award in the Public Bodies category (Brazilian Ministry of Environment)
