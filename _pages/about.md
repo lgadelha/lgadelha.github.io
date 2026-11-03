@@ -8,9 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   more_info: >
-    <p>Centre for Organismal Studies (COS)</p>
-    <p>Cluster of Excellence GreenRobust, Heidelberg University</p>
-    <p>Im Neuenheimer Feld 230, 69120 Heidelberg, Germany</p>
+    <p>EXC GreenRobust</p>
+    <p>Heidelberg University</p>
+    <p>Im Neuenheimer Feld 230</p>
+    <p>69120 Heidelberg, Germany</p>
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
