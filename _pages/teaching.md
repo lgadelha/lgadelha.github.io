@@ -12,9 +12,11 @@ nav_order: 6
 **2020 - 2023**
 
 ### Graduate Courses (M.Sc. and Ph.D. level)
+
 - **Management of Scientific Data**: SS2020, SS2021, SS2022
 
 ### Graduate Academy Training
+
 - **Research Data Management**: May 2021, March 2022, April 2022
 
 ---
@@ -26,11 +28,13 @@ nav_order: 6
 Co-instructor (with Maria Luiza Mondelli) for the module "Scientific Workflows in ENM" in the international online course.
 
 ### Module Materials
+
 - [Video](https://youtu.be/u5L-U03KjBk)
 - [Slides (PDF)](https://www.dropbox.com/s/xmt7u1q5lssrq5z/ENM2020_W34T1_FullModelReproducibility.pdf?dl=0)
 - [Additional Materials](https://www.dropbox.com/s/ofgdlbbz8lf5te7/Metal_FAIR_2019.pdf?dl=0)
 
 ### Course Outcomes
+
 - Contributed to a 43-week open-access educational program covering 18 major ENM/SDM topics
 - Supported global accessibility through Creative Commons-licensed materials (videos, slides, datasets, code)
 - Promoted methodological consensus and reproducible practices in distributional ecology
@@ -42,6 +46,7 @@ Co-instructor (with Maria Luiza Mondelli) for the module "Scientific Workflows i
 **2006 - 2019**
 
 ### Postgraduate Program on Computational Modeling
+
 - **Algorithms I (GA-026)**: 2018/P4, 2019/P4
 - **Databases (GA-009)**: 2016/P3
 - **Parallel Processing**: 2018/P3
@@ -49,11 +54,13 @@ Co-instructor (with Maria Luiza Mondelli) for the module "Scientific Workflows i
 - **Special Topics - Introduction to Scientific Workflows and their Applications (GB-500)**: 2015/P3, 2016/P1, 2017/P1, 2018/P2
 
 ### Student Supervision
+
 - B.Sc. students: 5
 - M.Sc. students: 2
 - Postdoctoral researchers: 2
 
 ### Summer School Program
+
 - **Python for High Performance Computing** (2019)
 - **Introduction to Parallel Scientific Workflows in Swift** (2017, 2018)
 - **Introduction to Scientific Workflows in Biodiversity** (2015)
@@ -67,5 +74,6 @@ Co-instructor (with Maria Luiza Mondelli) for the module "Scientific Workflows i
 **2000 - 2001**
 
 ### Bachelor of Computer Science Program
+
 - **Analysis of Algorithms** (2000)
 - **Theory of Computation** (2000)

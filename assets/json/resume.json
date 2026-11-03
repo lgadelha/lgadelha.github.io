@@ -40,10 +40,7 @@
       "startDate": "2026-02-01",
       "endDate": "",
       "summary": "Research data management in the Cluster of Excellence GreenRobust",
-      "highlights": [
-        "FAIR computational workflows",
-        "Research IT infrastructure administration"
-      ]
+      "highlights": ["FAIR computational workflows", "Research IT infrastructure administration"]
     },
     {
       "name": "Friedrich-Schiller-University Jena",
@@ -90,10 +87,7 @@
       "startDate": "2001-04-01",
       "endDate": "2004-08-01",
       "summary": "Development of public-key infrastructure systems",
-      "highlights": [
-        "Verisign Processing Center APIs and OpenSSL development in C and Java",
-        "System administration for Sun Solaris and Linux"
-      ]
+      "highlights": ["Verisign Processing Center APIs and OpenSSL development in C and Java", "System administration for Sun Solaris and Linux"]
     },
     {
       "name": "State University of Western Paraná",
@@ -114,9 +108,7 @@
       "studyType": "D.Sc.",
       "startDate": "2007-01-01",
       "endDate": "2012-01-01",
-      "courses": [
-        "Doctoral internship at Argonne National Laboratory and University of Chicago (2010-2011)"
-      ]
+      "courses": ["Doctoral internship at Argonne National Laboratory and University of Chicago (2010-2011)"]
     },
     {
       "institution": "University of Brasília",
@@ -192,66 +184,37 @@
       "name": "Scientific Data Engineering",
       "level": "Expert",
       "icon": "fa-solid fa-database",
-      "keywords": [
-        "Data management planning",
-        "Metadata management",
-        "Data provenance",
-        "FAIR principles",
-        "Semantic web"
-      ]
+      "keywords": ["Data management planning", "Metadata management", "Data provenance", "FAIR principles", "Semantic web"]
     },
     {
       "name": "Computational Workflows",
       "level": "Expert",
       "icon": "fa-solid fa-diagram-project",
-      "keywords": [
-        "Nextflow",
-        "CWL",
-        "Parsl",
-        "Swift"
-      ]
+      "keywords": ["Nextflow", "CWL", "Parsl", "Swift"]
     },
     {
       "name": "Databases",
       "level": "Expert",
       "icon": "fa-solid fa-server",
-      "keywords": [
-        "PostgreSQL",
-        "PL/pgSQL",
-        "SQLite"
-      ]
+      "keywords": ["PostgreSQL", "PL/pgSQL", "SQLite"]
     },
     {
       "name": "Programming",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "Scala",
-        "C"
-      ]
+      "keywords": ["Python", "Scala", "C"]
     },
     {
       "name": "Scalable Computing",
       "level": "Expert",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "Parallel computing",
-        "Spark",
-        "OpenStack",
-        "AWS"
-      ]
+      "keywords": ["Parallel computing", "Spark", "OpenStack", "AWS"]
     },
     {
       "name": "DevOps",
       "level": "Advanced",
       "icon": "fa-solid fa-gears",
-      "keywords": [
-        "Docker",
-        "Git",
-        "Terraform",
-        "Ansible"
-      ]
+      "keywords": ["Docker", "Git", "Terraform", "Ansible"]
     }
   ],
   "languages": [
@@ -280,38 +243,24 @@
     {
       "name": "Research Data Management",
       "icon": "fa-solid fa-folder-open",
-      "keywords": [
-        "FAIR principles",
-        "Data provenance",
-        "Metadata management"
-      ]
+      "keywords": ["FAIR principles", "Data provenance", "Metadata management"]
     },
     {
       "name": "Bioinformatics",
       "icon": "fa-solid fa-dna",
-      "keywords": [
-        "Genomics",
-        "Metagenomics",
-        "Metabolomics"
-      ]
+      "keywords": ["Genomics", "Metagenomics", "Metabolomics"]
     },
     {
       "name": "Biodiversity Informatics",
       "icon": "fa-solid fa-leaf",
-      "keywords": [
-        "Ecological niche modeling",
-        "Species distribution modeling"
-      ]
+      "keywords": ["Ecological niche modeling", "Species distribution modeling"]
     }
   ],
   "projects": [
     {
       "name": "European Genomic Data Infrastructure (GDI)",
       "summary": "Infrastructure for managing and analyzing genomics and health data across Europe",
-      "highlights": [
-        "Federated European Genome-Phenome Archive",
-        "FAIR computational workflows"
-      ],
+      "highlights": ["Federated European Genome-Phenome Archive", "FAIR computational workflows"],
       "startDate": "2020-02-01",
       "endDate": "2023-02-28",
       "url": "https://gdi.onemilliongenomes.eu"
@@ -319,10 +268,7 @@
     {
       "name": "Brazilian Biodiversity Information System (SiBBr)",
       "summary": "National biodiversity data infrastructure for Brazil",
-      "highlights": [
-        "GBIF node management",
-        "Biodiversity data aggregation"
-      ],
+      "highlights": ["GBIF node management", "Biodiversity data aggregation"],
       "startDate": "2012-01-01",
       "endDate": "2015-12-31",
       "url": "https://www.sibbr.gov.br"
@@ -330,10 +276,7 @@
     {
       "name": "Wildlife Health Information System (SISS-Geo)",
       "summary": "Citizen science platform for monitoring wildlife health risks in Brazil",
-      "highlights": [
-        "National Biodiversity Award winner",
-        "Disease surveillance"
-      ],
+      "highlights": ["National Biodiversity Award winner", "Disease surveillance"],
       "startDate": "2014-01-01",
       "endDate": "2019-12-31",
       "url": "https://sissgeo.lncc.br"
