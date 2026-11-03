@@ -23,7 +23,7 @@ nav_order: 6
 
 **2020** - Global, Online
 
-Co-instructor (with Maria Luiza Mondelli) for the module "Scientific Workflows in ENM" in the international online course (52 instructors, 2,541 participants, 90,938 video views).
+Co-instructor (with Maria Luiza Mondelli) for the module "Scientific Workflows in ENM" in the international online course.
 
 ### Module Materials
 - [Video](https://youtu.be/u5L-U03KjBk)
