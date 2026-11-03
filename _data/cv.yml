@@ -13,43 +13,43 @@
   contents:
     - title: D.Sc. in Computer and Systems Engineering
       institution: Federal University of Rio de Janeiro, Brazil
-      year: Sep 2007 - Aug 2012
+      year: 2007 - 2012
       description:
         - Doctoral internship at Argonne National Laboratory and University of Chicago, United States (2010-2011)
     - title: M.Sc. in Computer Science
       institution: University of Brasília, Brazil
-      year: Jul 1999 - Dec 2000
+      year: 1999 - 2000
     - title: B.Sc. in Mathematics
       institution: University of Brasília, Brazil
-      year: Aug 1993 - Jul 1997
+      year: 1993 - 1997
 
 - title: Professional Experience
   type: time_table
   contents:
     - title: Data Steward
-      institution: Heidelberg University, Heidelberg, Germany
-      year: Feb 2026 - Present
+      institution: Cluster of Excellence GreenRobust, Heidelberg University, Heidelberg, Germany
+      year: 2026 - Present
       description:
-        - Research data management in the Cluster of Excellence GreenRobust
+        - Plant sciences data management (metadata, DataPLANT Annotated Research Context packaging)
         - FAIR computational workflows
-        - Research IT infrastructure administration
-    - title: Research Associate
-      institution: Friedrich-Schiller-University Jena, Jena, Germany
-      year: Mar 2023 - Jan 2026
-      description:
-        - Research data manager for the Cluster of Excellence Balance of the Microverse
-        - Computational reproducibility improvement for microbial community analysis workflows
-        - Application of high performance computing methodologies to the development of microbial community analysis workflows
+        - Research data infrastructure administration
     - title: Project Coordinator
       institution: German Cancer Research Center (DKFZ), Heidelberg, Germany
-      year: Feb 2020 - Feb 2023
+      year: 2023 - 2026
       description:
         - Project coordination for the European Genomic Data Infrastructure (GDI)
         - Development of reproducible and FAIR computational workflows for genome analysis
         - Tools and techniques for genomics and health data life-cycle management (discovery, access control, secure storage, analysis)
+    - title: Research Associate
+      institution: Friedrich-Schiller-University Jena, Jena, Germany
+      year: 2020 - 2023
+      description:
+        - Research data manager for the Cluster of Excellence Balance of the Microverse
+        - Computational reproducibility improvement for microbial community analysis workflows
+        - Application of high performance computing methodologies and the FAIR principles to the development of microbial community analysis workflows
     - title: Technologist
       institution: National Laboratory for Scientific Computing (LNCC), Petrópolis, Brazil
-      year: Aug 2004 - Feb 2020
+      year: 2004 - 2020
       description:
         - Implementation of high-performance bioinformatics and biodiversity workflows in Spark and Python
         - title: Implementation of biodiversity information systems
@@ -62,14 +62,14 @@
         - D.Sc. and M.Sc. student supervision
     - title: System Administrator
       institution: Certisign Certificadora Digital S.A., Rio de Janeiro, Brazil
-      year: Apr 2001 - Aug 2004
+      year: 2001 - 2004
       description:
         - Development of public-key infrastructure systems using Verisign Processing Center APIs and OpenSSL in C and Java
         - Setting up pilot environments for certificate roaming and timestamping protocol services
         - System administration for Sun Solaris, Linux, and Verisign Processing Center systems
     - title: Auxiliar Professor
       institution: State University of Western Paraná, Cascavel, Brazil
-      year: Feb 2000 - Mar 2001
+      year: 2000 - 2001
       description:
         - Teaching Analysis of Algorithms and Theory of Computation courses
 
