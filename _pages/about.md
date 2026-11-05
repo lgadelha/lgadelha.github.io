@@ -23,7 +23,7 @@ I am also involved in:
 
 - [DataPLANT](https://www.nfdi4plants.org/), German National Research Data Infrastructure (NFDI)
 - ELIXIR [Research Data Management Community](https://elixir-europe.org/communities/research-data-management)
-- Workflows Community Initiative (WCI) [FAIR Computational Workflows Working Group](https://workflows.community/groups/fair/)
+- [FAIR Computational Workflows Working Group](https://workflows.community/groups/fair/), Workflows Community Initiative
 - [GW-RePO](https://github.com/lgadelha/gw-repo-prototype) (Genomic Workflow Resource and Parameter Optimization)
 
 Previously, I worked as the German node project coordinator of the European Genomic Data Infrastructure ([GDI](https://gdi.onemilliongenomes.eu/)) at the German Human Genome-Phenome Archive ([GHGA](https://www.ghga.de)), German Cancer Research Center ([DKFZ](https://www.dkfz.de)); Research Associate at the [University of Jena](https://www.uni-jena.de) responsible for research data management in the Cluster of Excellence [Balance of the Microverse](https://www.microverse-cluster.de/en/); and Senior Technologist (research staff) at the National Laboratory for Scientific Computing ([LNCC](https://www.lncc.br)) in Brazil, where I worked on high-performance scientific workflows and scientific databases, and on projects such as [HIHISIV](https://hihisiv.github.io/), [SISS-Geo](https://sissgeo.lncc.br/) and [SiBBr](https://sibbr.gov.br/).
