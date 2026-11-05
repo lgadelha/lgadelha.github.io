@@ -22,7 +22,7 @@ My work focuses on scientific data engineering: provenance, computational workfl
 I am also involved in:
 
 - [DataPLANT](https://www.nfdi4plants.org/), German National Research Data Infrastructure (NFDI)
-- ELIXIR [Research Data Management Community](https://elixir-europe.org/communities/research-data-management)
+- [Research Data Management Community](https://elixir-europe.org/communities/research-data-management), ELIXIR
 - [FAIR Computational Workflows Working Group](https://workflows.community/groups/fair/), Workflows Community Initiative
 - [GW-RePO](https://github.com/lgadelha/gw-repo-prototype) (Genomic Workflow Resource and Parameter Optimization)
 
