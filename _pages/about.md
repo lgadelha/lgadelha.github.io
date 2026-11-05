@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My work focuses on scientific data engineering: provenance, computational workflows, research data management, and the FAIR principles, with applications in bioinformatics and biodiversity informatics. I work as a Research Data Infrastructure Engineer in the Cluster of Excellence [GreenRobust](https://greenrobust.de) at [Heidelberg University](https://www.uni-heidelberg.de).
+My work focuses on scientific data engineering: provenance, computational workflows, research data management, and the FAIR principles, with applications in bioinformatics and biodiversity informatics. I work as a Research Data Infrastructure Engineer in the Cluster of Excellence [GreenRobust](https://greenrobust.de) at the [Centre for Organismal Studies](https://www.cos.uni-heidelberg.de), [Heidelberg University](https://www.uni-heidelberg.de).
 
 I am also involved in:
 
