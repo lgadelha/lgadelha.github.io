@@ -17,11 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My work focuses on scientific data engineering: provenance, computational workflows, research data management, and the FAIR principles, with applications in bioinformatics and biodiversity informatics. I work as a Data Steward in the Cluster of Excellence [GreenRobust](https://greenrobust.de) at [Heidelberg University](https://www.uni-heidelberg.de).
+My work focuses on scientific data engineering: provenance, computational workflows, research data management, and the FAIR principles, with applications in bioinformatics and biodiversity informatics. I work as a Research Data Infrastructure Engineer in the Cluster of Excellence [GreenRobust](https://greenrobust.de) at [Heidelberg University](https://www.uni-heidelberg.de).
 
 I am also involved in:
 
-- [DataPLANT](https://www.nfdi4plants.org/)
+- [DataPLANT](https://www.nfdi4plants.org/), German National Research Data Infrastructure (NFDI)
 - ELIXIR [Research Data Management Community](https://elixir-europe.org/communities/research-data-management)
 - Workflows Community Initiative (WCI) [FAIR Computational Workflows Working Group](https://workflows.community/groups/fair/)
 - [GW-RePO](https://github.com/lgadelha/gw-repo-prototype) (Genomic Workflow Resource and Parameter Optimization)
