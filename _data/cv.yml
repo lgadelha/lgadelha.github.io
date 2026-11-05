@@ -26,13 +26,14 @@
 - title: Professional Experience
   type: time_table
   contents:
-    - title: Data Steward
+    - title: Research Data Infrastructure Engineer
       institution: Cluster of Excellence GreenRobust, Heidelberg University, Heidelberg, Germany
       year: 2026 - Present
       description:
-        - Plant sciences data management (metadata, DataPLANT Annotated Research Context packaging)
-        - FAIR computational workflows
-        - Research data infrastructure administration
+        - Plant sciences data stewardship (metadata, ontologies, ARC packaging)
+        - FAIR computational workflows, provenance, CWL, RO-Crate, observability
+        - Research data infrastructure operations - storage, backup, virtualization
+        - Research data management training
     - title: Project Coordinator
       institution: German Cancer Research Center (DKFZ), Heidelberg, Germany
       year: 2023 - 2026
