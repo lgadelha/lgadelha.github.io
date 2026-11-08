@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   more_info: >
-    <p>EXC GreenRobust</p>
+    <p>EXC 3099 GreenRobust</p>
     <p>Heidelberg University</p>
     <p>Im Neuenheimer Feld 230</p>
     <p>69120 Heidelberg, Germany</p>
