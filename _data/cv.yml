@@ -41,8 +41,7 @@
         - Project coordination for the German node (GHGA) of the European Genomic Data Infrastructure (GDI)
         - Deployment of GHGA-GDI integration prototype based in the FAIR Data Point (FDP) and Beacon
         - Development of a proof-of-concept Python library for registering GHGA datasets in the Federated EGA through its Submitter API and RabbitMQ messaging
-        - Development of reproducible and FAIR computational workflows for genome analysis including a provenance
-    and observability API
+        - Development of reproducible and FAIR computational workflows for genome analysis including a provenance and observability API
     - title: Research Associate
       institution: Friedrich-Schiller-University Jena, Jena, Germany
       year: 2020 - 2023
