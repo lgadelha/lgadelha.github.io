@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 My work focuses on scientific data engineering: provenance, computational workflows, research data management, and the FAIR principles, with applications in bioinformatics and biodiversity informatics. I work as a Data Steward in the [Central Data Hub](https://greenrobust.de/cdh-central-data-hub/) of the Cluster of Excellence [GreenRobust](https://greenrobust.de) at the [Centre for Organismal Studies](https://www.cos.uni-heidelberg.de), [Heidelberg University](https://www.uni-heidelberg.de).
 
-I am also involved in the following communities and projects:
+I am also involved in the following communities and projects: 
 
 - [DataPLANT](https://www.nfdi4plants.org/): participating in the [Data Steward Circle](https://www.nfdi4plants.org/events/datasteward-circle/30-09-2026/) and in community events, the project itself is part of the German National Research Data Infrastructure (NFDI), providing the tools and standards used in GreenRobust. 
 - [Research Data Management Community](https://elixir-europe.org/communities/research-data-management) (ELIXIR): currently contributing to the [Data Stewardship Handbook](https://elixir-europe.github.io/ds-handbook/) with guidelines for data stewards on making computational workflows FAIR.
