@@ -4,9 +4,9 @@
     - name: Full Name
       value: Luiz Gadelha
     - name: Nationality
-      value: Brazilian - German
+      value: Brazilian and German
     - name: Languages
-      value: Portuguese (native), English (C2), Spanish, German (B2)
+      value: Portuguese (native), English (C2), German (B2), Spanish (conversational)
 
 - title: Education
   type: time_table
@@ -15,7 +15,9 @@
       institution: Federal University of Rio de Janeiro, Brazil
       year: 2007 - 2012
       description:
-        - Doctoral internship at Argonne National Laboratory and University of Chicago, United States (2010-2011)
+        - "Thesis: Gerência de Proveniência em Workflows Científicos Paralelos e Distribuídos (Provenance Management in Parallel and Distributed Scientific Workflows)"
+        - "Advisor: Prof. Marta Mattoso"
+        - Doctoral internship at Argonne National Laboratory and University of Chicago, United States (2010-2011), funded by a CAPES scholarship
     - title: M.Sc. in Computer Science
       institution: University of Brasília, Brazil
       year: 1999 - 2000
@@ -26,20 +28,20 @@
 - title: Professional Experience
   type: time_table
   contents:
-    - title: Research Data Infrastructure Engineer
-      institution: Cluster of Excellence GreenRobust, Heidelberg University, Heidelberg, Germany
+    - title: Data Steward
+      institution: Central Data Hub, Cluster of Excellence GreenRobust, Heidelberg University, Heidelberg, Germany
       year: 2026 - Present
       description:
         - Plant sciences data stewardship (metadata, ontologies, ARC packaging)
         - FAIR computational workflows, provenance, CWL, RO-Crate, observability
-        - Research data infrastructure operations - storage, backup, virtualization
+        - "Research data infrastructure operations: storage, backup, virtualization"
         - Research data management training
     - title: Project Coordinator
       institution: German Human Genome-Phenome Archive (GHGA), German Cancer Research Center (DKFZ), Heidelberg, Germany
       year: 2023 - 2026
       description:
-        - Project coordination for the German node (GHGA) of the European Genomic Data Infrastructure (GDI)
-        - Deployment of GHGA-GDI integration prototype based in the FAIR Data Point (FDP) and Beacon
+        - Project coordination for the German node of the European Genomic Data Infrastructure (GDI)
+        - Deployment of a GHGA-GDI integration prototype based on the FAIR Data Point (FDP) and Beacon
         - Development of a proof-of-concept Python library for registering GHGA datasets in the Federated EGA through its Submitter API and RabbitMQ messaging
         - Development of reproducible and FAIR computational workflows for genome analysis including a provenance and observability API
     - title: Research Associate
@@ -49,19 +51,19 @@
         - Research data manager for the Cluster of Excellence Balance of the Microverse
         - Computational reproducibility improvement for microbial community analysis workflows
         - Application of high performance computing methodologies and the FAIR principles to the development of microbial community analysis workflows
-    - title: Technologist
+    - title: Senior Technologist
       institution: National Laboratory for Scientific Computing (LNCC), Petrópolis, Brazil
       year: 2004 - 2020
       description:
-        - Implementation of high-performance bioinformatics and biodiversity workflows in Spark and Python
+        - Manager of the Brazilian node in the Global Biodiversity Information Facility (GBIF)
         - title: Implementation of biodiversity information systems
           contents:
-            - Brazilian Biodiversity Information System (https://www.sibbr.gov.br)
-            - Wildlife Health Information System (https://sissgeo.lncc.br)
-        - Manager of the Brazilian node in the Global Biodiversity Information Facility (GBIF)
+            - "[SiBBr](https://www.sibbr.gov.br): Brazilian Biodiversity Information System"
+            - "[SISS-Geo](https://sissgeo.lncc.br): Wildlife Health Information System"
+        - Implementation of high-performance bioinformatics and biodiversity workflows in Spark and Python
         - Design and implementation of a provenance management system for the Swift parallel scripting language
         - Teaching parallel computing, algorithms, databases, machine learning, and scientific workflows courses
-        - D.Sc. and M.Sc. student supervision
+        - Supervision of B.Sc. (5) and M.Sc. (2) students and postdoctoral researchers (2)
     - title: System Administrator
       institution: Certisign Certificadora Digital S.A., Rio de Janeiro, Brazil
       year: 2001 - 2004
@@ -69,18 +71,24 @@
         - Development of public-key infrastructure systems using Verisign Processing Center APIs and OpenSSL in C and Java
         - Setting up pilot environments for certificate roaming and timestamping protocol services
         - System administration for Sun Solaris, Linux, and Verisign Processing Center systems
-    - title: Auxiliar Professor
+    - title: Lecturer
       institution: State University of Western Paraná, Cascavel, Brazil
       year: 2000 - 2001
       description:
         - Teaching Analysis of Algorithms and Theory of Computation courses
+
+- title: Publications
+  type: list
+  contents:
+    - "Full list on the [publications](/publications/) page, also available on [Google Scholar](https://scholar.google.com/citations?user=gWzznREAAAAJ) and [ORCID](https://orcid.org/0000-0002-8122-9522)"
 
 - title: Professional Skills
   type: nested_list
   contents:
     - title: Scientific Data Engineering
       items:
-        - Data management planning, metadata management, repositories, data provenance
+        - Data management planning, metadata management, ontologies, repositories, data provenance
+        - FAIR digital objects and services (RO-Crate, ARC, FAIR Data Point, Beacon)
         - Scientific workflows (Nextflow, CWL), semantic web
     - title: Databases
       items:
@@ -93,35 +101,40 @@
         - Parallel computing, Big Data (e.g. Spark), Cloud (OpenStack, AWS)
     - title: DevOps
       items:
-        - Docker, Git, Terraform, Ansible
+        - Docker, Git, Terraform, Ansible, RabbitMQ
     - title: Operating Systems
       items:
         - Linux (RHEL and Debian/Ubuntu)
 
-- title: Honors and Awards
+- title: Grants and Projects
   type: time_table
   contents:
-    - year: 2021
-      items:
-        - Functional Programming Principles in Scala course completion on Coursera
     - year: 2017 - 2021
       items:
         - Local project coordinator - "Scalable Computational Framework for Ecological Niche Modeling" (CAPES)
-    - year: 2017
-      items:
-        - Best paper in the "Demo" track of the Brazilian Symposium on Databases (SBBD)
     - year: 2016 - 2018
       items:
         - Project coordinator - "Methodologies, Tools, and Abstractions for High Productivity in Scientific Computing" (FAPERJ)
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2017
+      items:
+        - Best paper in the "Demo" track of the Brazilian Symposium on Databases (SBBD)
     - year: 2015
       items:
         - Winner of the National Biodiversity Award in the Public Bodies category (Brazilian Ministry of Environment)
     - year: 2014
       items:
-        - Best paper in the "Health" Category at III Seminar on Great Challenges of Computing in Brazil (SBC)
-    - year: 2010 - 2011
-      items:
-        - Doctoral Internship at University of Chicago funded by CAPES (Brazil)
+        - Best paper in the "Health" category at the III Seminar on Great Challenges of Computing in Brazil (SBC)
+
+- title: Community Service
+  type: list
+  contents:
+    - "[DataPLANT](https://www.nfdi4plants.org/) (NFDI): participant in the Data Steward Circle and community events"
+    - "[ELIXIR Research Data Management Community](https://elixir-europe.org/communities/research-data-management): contributor to the [Data Stewardship Handbook](https://elixir-europe.github.io/ds-handbook/)"
+    - "[FAIR Computational Workflows Working Group](https://workflows.community/groups/fair/), Workflows Community Initiative: co-author of the [recommendations](https://doi.org/10.1038/s41597-025-04451-9) on applying the FAIR principles to computational workflows"
 
 - title: Reviewer for Scientific Journals
   type: list
@@ -146,10 +159,10 @@
         - FAIR principles, data provenance, metadata management
     - title: Computational Workflows
       items:
-        - Nextflow, CWL, reproducibility, scalability
+        - Reproducibility, scalability, observability
     - title: High Performance Computing
       items:
-        - Parallel computing, Big Data, Cloud computing
+        - Parallel and distributed computing
     - title: Bioinformatics and Biodiversity
       items:
         - Genomics, ecological niche modeling, biodiversity informatics
