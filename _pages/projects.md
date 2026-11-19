@@ -15,7 +15,7 @@ _styles: >
 
 ### GreenRobust Central Data Hub
 
-**2026 - present** - Cluster of Excellence GreenRobust, Heidelberg University
+**2026 - present** - Cluster of Excellence GreenRobust
 
 Data stewardship for plant sciences research in the [Central Data Hub](https://greenrobust.de/cdh-central-data-hub/): structuring research data as [DataPLANT](https://www.nfdi4plants.org/) Annotated Research Contexts (ARCs), describing it with metadata and ontologies, making analysis workflows FAIR, operating storage and backup infrastructure, and [training researchers](https://lgadelha.github.io/training/) in research data management.
 
@@ -49,19 +49,19 @@ An API that collects provenance and resource usage data from Nextflow workflow r
 
 ### Provenance Management for the Swift Parallel Scripting Language
 
-**2010 - 2013** - LNCC, University of Chicago, and Argonne National Laboratory
+**2010 - 2018** - LNCC, University of Chicago, and Argonne National Laboratory
 
-Design and implementation of MTCProv, the provenance management system of the [Swift](http://swift-lang.org/main/) parallel scripting language, which records how data was derived in large-scale parallel computations and supports queries correlating resource usage, scientific parameters, and data derivation.
+Design and implementation of MTCProv, the provenance management system of the [Swift](http://swift-lang.org/main/) parallel scripting language, which records how data was derived in large-scale parallel computations and supports queries correlating resource usage, scientific parameters, and data derivation. Building on it, BioWorkbench is a framework for bioinformatics experiments that automatically collects provenance from Swift workflow runs, covering both performance and scientific domain data, and makes it queryable through a web application.
 
-<p class="tech">Relational databases, SQL, Swift · <a href="https://github.com/swift-lang/swift-k">Swift</a> · <a href="https://github.com/lgadelha/swift-provenancedb">provenance database</a> · <a href="https://doi.org/10.1007/s10619-012-7104-4">MTCProv paper</a></p>
+<p class="tech">Relational databases, SQL, Swift · <a href="https://github.com/swift-lang/swift-k">Swift</a> · <a href="https://github.com/lgadelha/swift-provenancedb">provenance database</a> · <a href="https://doi.org/10.1007/s10619-012-7104-4">MTCProv paper</a> · <a href="https://doi.org/10.7717/peerj.5551">BioWorkbench paper</a></p>
 
 ### High-Performance Bioinformatics Workflows
 
-**2016 - 2022** - LNCC
+**2019 - 2022** - LNCC
 
-Frameworks and workflows for running bioinformatics analyses on the Brazilian National High-Performance Computing System (SINAPAD), including the Santos Dumont supercomputer: BioWorkbench for managing and analyzing bioinformatics experiments, the BioinfoPortal science gateway, and the ParslRNA-Seq workflow.
+Running bioinformatics analyses on the Brazilian National High-Performance Computing System (SINAPAD), including the Santos Dumont supercomputer: the BioinfoPortal science gateway and the ParslRNA-Seq workflow.
 
-<p class="tech">Swift, Parsl, Python, HPC · <a href="https://doi.org/10.7717/peerj.5551">BioWorkbench</a> · <a href="https://doi.org/10.1016/j.future.2020.01.030">BioinfoPortal</a> · <a href="https://doi.org/10.1007/978-3-031-23821-5_13">ParslRNA-Seq</a></p>
+<p class="tech">Parsl, Python, HPC · <a href="https://doi.org/10.1016/j.future.2020.01.030">BioinfoPortal</a> · <a href="https://doi.org/10.1007/978-3-031-23821-5_13">ParslRNA-Seq</a></p>
 
 ## Biodiversity Informatics
 
