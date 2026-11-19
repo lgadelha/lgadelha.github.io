@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Data Management
+subtitle: Research Data Management · FAIR Workflows · Data Infrastructure
 
 profile:
   align: right
@@ -17,17 +17,23 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My work focuses on scientific data engineering: provenance, computational workflows, research data management, and the FAIR principles, with applications in bioinformatics and biodiversity informatics. I work as a Data Steward in the [Central Data Hub](https://greenrobust.de/cdh-central-data-hub/) of the Cluster of Excellence [GreenRobust](https://greenrobust.de) at the [Centre for Organismal Studies](https://www.cos.uni-heidelberg.de), [Heidelberg University](https://www.uni-heidelberg.de).
+I help research groups and infrastructures manage their data and computational workflows so that they are findable, reusable, and reproducible. I work as a Data Steward in the [Central Data Hub](https://greenrobust.de/cdh-central-data-hub/) of the Cluster of Excellence [GreenRobust](https://greenrobust.de) at the [Centre for Organismal Studies](https://www.cos.uni-heidelberg.de), [Heidelberg University](https://www.uni-heidelberg.de), and have worked on scientific computing and research data in the life sciences, bioinformatics, and biodiversity informatics since 2004.
 
-I am also involved in the following communities and projects:
+**Areas of expertise**
+
+- **Research data management:** data management planning, metadata and ontologies, and FAIR data packaging with DataPLANT ARCs and RO-Crate
+- **Computational workflows:** reproducible and FAIR workflows with Nextflow and CWL, including provenance and observability
+- **Research data infrastructure:** federated genomic data infrastructure (FAIR Data Point, Beacon, Federated EGA), repositories, storage, and backup
+- **Training:** [workshops and courses](https://lgadelha.github.io/training/) on research data management and FAIR practices for researchers at all career stages
+
+**Communities**
 
 - [DataPLANT](https://www.nfdi4plants.org/): participating in the [Data Steward Circle](https://www.nfdi4plants.org/events/datasteward-circle/30-09-2026/) and in community events, the project itself is part of the German National Research Data Infrastructure (NFDI), providing the tools and standards used in GreenRobust.
 - [Research Data Management Community](https://elixir-europe.org/communities/research-data-management) (ELIXIR): currently contributing to the [Data Stewardship Handbook](https://elixir-europe.github.io/ds-handbook/) with guidelines for data stewards on making computational workflows FAIR.
 - [FAIR Computational Workflows Working Group](https://workflows.community/groups/fair/), Workflows Community Initiative (WCI): contributed to the discussions and the recently-published [guidelines](https://doi.org/10.1038/s41597-025-04451-9) on applying the FAIR Principles to computational workflows, will also attend the [Dagstuhl Seminar](https://www.dagstuhl.de/27411) proposed by the working group on the topic.
-- [GW-RePO](https://github.com/lgadelha/gw-repo-prototype) (Genomic Workflow Resource and Parameter Optimization): this API collects provenance and runtime resource consumption data from computational workflow runs, the data can be queried and visualized, and an early prototype of a machine learning-based tool for automatically generating optimal Nextflow tool configurations is included.
 
-Previously, I worked as the German node project coordinator of the European Genomic Data Infrastructure ([GDI](https://gdi.onemilliongenomes.eu/)) at the German Human Genome-Phenome Archive ([GHGA](https://www.ghga.de)), German Cancer Research Center ([DKFZ](https://www.dkfz.de)); Research Associate at the [University of Jena](https://www.uni-jena.de) responsible for research data management in the Cluster of Excellence [Balance of the Microverse](https://www.microverse-cluster.de/en/); and Senior Technologist (research staff) at the National Laboratory for Scientific Computing ([LNCC](https://www.lncc.br)) in Brazil, where I worked on high-performance scientific workflows and scientific databases, and on projects such as [HIHISIV](https://hihisiv.github.io/), [SISS-Geo](https://sissgeo.lncc.br/) and [SiBBr](https://sibbr.gov.br/).
+Previously, I coordinated the German node of the European Genomic Data Infrastructure ([GDI](https://gdi.onemilliongenomes.eu/)) at the German Human Genome-Phenome Archive ([GHGA](https://www.ghga.de)), German Cancer Research Center ([DKFZ](https://www.dkfz.de)); managed research data for the Cluster of Excellence [Balance of the Microverse](https://www.microverse-cluster.de/en/) at the [University of Jena](https://www.uni-jena.de); and worked as a Senior Technologist at the National Laboratory for Scientific Computing ([LNCC](https://www.lncc.br)) in Brazil on high-performance scientific workflows and scientific information systems such as [SiBBr](https://sibbr.gov.br/), [SISS-Geo](https://sissgeo.lncc.br/), and [HIHISIV](https://hihisiv.github.io/). Selected work is described on the [projects](https://lgadelha.github.io/projects/) page.
 
-I received my D.Sc. degree in Computer and Systems Engineering from the Federal University of Rio de Janeiro ([UFRJ](https://pesc.coppe.ufrj.br/)), Brazil, in 2012, including a doctoral internship at the [Computation Institute](https://voices.uchicago.edu/compinst/) at the University of Chicago and Argonne National Laboratory, where I worked on provenance support for the [Swift](http://swift-lang.org/main/) parallel scripting language. I also hold a B.Sc. in Mathematics and an M.Sc. in Computer Science from the University of Brasília ([UnB](https://www.unb.br/)).
+I hold a D.Sc. in Computer and Systems Engineering from the Federal University of Rio de Janeiro ([UFRJ](https://pesc.coppe.ufrj.br/)), with a doctoral internship at the [Computation Institute](https://voices.uchicago.edu/compinst/) of the University of Chicago and Argonne National Laboratory, where I worked on provenance for the [Swift](http://swift-lang.org/main/) parallel scripting language. More details are in my [CV](https://lgadelha.github.io/cv/).
 
-More details about my background are in my [CV](https://lgadelha.github.io/cv/), and my experience teaching graduate and undergraduate courses is described on the [teaching](https://lgadelha.github.io/teaching/) page.
+To get in touch about research data management, FAIR workflows, or training, contact me through the links below.

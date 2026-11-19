@@ -8,23 +8,6 @@
     - name: Languages
       value: Portuguese (native), English (C2), German (B2), Spanish (conversational)
 
-- title: Education
-  type: time_table
-  contents:
-    - title: D.Sc. in Computer and Systems Engineering
-      institution: Federal University of Rio de Janeiro, Brazil
-      year: 2007 - 2012
-      description:
-        - "Thesis: Gerência de Proveniência em Workflows Científicos Paralelos e Distribuídos (Provenance Management in Parallel and Distributed Scientific Workflows)"
-        - "Advisor: Prof. Marta Mattoso"
-        - Doctoral internship at Argonne National Laboratory and University of Chicago, United States (2010-2011), funded by a CAPES scholarship
-    - title: M.Sc. in Computer Science
-      institution: University of Brasília, Brazil
-      year: 1999 - 2000
-    - title: B.Sc. in Mathematics
-      institution: University of Brasília, Brazil
-      year: 1993 - 1997
-
 - title: Professional Experience
   type: time_table
   contents:
@@ -77,11 +60,6 @@
       description:
         - Teaching Analysis of Algorithms and Theory of Computation courses
 
-- title: Publications
-  type: list
-  contents:
-    - "Full list on the [publications](/publications/) page, also available on [Google Scholar](https://scholar.google.com/citations?user=gWzznREAAAAJ) and [ORCID](https://orcid.org/0000-0002-8122-9522)"
-
 - title: Professional Skills
   type: nested_list
   contents:
@@ -105,6 +83,28 @@
     - title: Operating Systems
       items:
         - Linux (RHEL and Debian/Ubuntu)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: D.Sc. in Computer and Systems Engineering
+      institution: Federal University of Rio de Janeiro, Brazil
+      year: 2007 - 2012
+      description:
+        - "Thesis: Gerência de Proveniência em Workflows Científicos Paralelos e Distribuídos (Provenance Management in Parallel and Distributed Scientific Workflows)"
+        - "Advisor: Prof. Marta Mattoso"
+        - Doctoral internship at Argonne National Laboratory and University of Chicago, United States (2010-2011), funded by a CAPES scholarship
+    - title: M.Sc. in Computer Science
+      institution: University of Brasília, Brazil
+      year: 1999 - 2000
+    - title: B.Sc. in Mathematics
+      institution: University of Brasília, Brazil
+      year: 1993 - 1997
+
+- title: Publications
+  type: list
+  contents:
+    - "Full list on the [publications](/publications/) page, also available on [Google Scholar](https://scholar.google.com/citations?user=gWzznREAAAAJ) and [ORCID](https://orcid.org/0000-0002-8122-9522)"
 
 - title: Grants and Projects
   type: time_table

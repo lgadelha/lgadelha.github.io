@@ -40,3 +40,7 @@
 ^https?://www\.dagstuhl\.de(/|$)
 ^https?://elixir-europe\.org(/|$)
 ^https?://www\.nfdi4plants\.org(/|$)
+
+# Own site: a page added in the same push is not deployed yet when this check runs,
+# so links to it would fail. All own pages are reachable from the navigation menu.
+^https?://lgadelha\.github\.io(/|$)
