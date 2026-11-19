@@ -1,4 +1,42 @@
-# Blocks requests from GitHub Actions runners (401)
-https://unsplash\.com/?
 # Returns 502 to the link checker
-https://www\.uni-jena\.de/?
+^https?://www\.uni-jena\.de(/|$)
+
+# Well-known, stable sites: not checked to avoid false alarms from
+# rate limiting, bot blocking or temporary outages.
+
+# Platforms and reference sites
+^https?://(www\.)?github\.com(/|$)
+^https?://(docs|help|pages)\.github\.com(/|$)
+^https?://doi\.org(/|$)
+^https?://en\.wikipedia\.org(/|$)
+^https?://youtu\.be(/|$)
+^https?://support\.google\.com(/|$)
+^https?://support\.mozilla\.org(/|$)
+^https?://learn\.microsoft\.com(/|$)
+
+# Software documentation
+^https?://(docs\.)?python\.org(/|$)
+^https?://www\.python\.org(/|$)
+^https?://pypi\.org(/|$)
+^https?://www\.ruby-lang\.org(/|$)
+^https?://bundler\.io(/|$)
+^https?://jekyllrb\.com(/|$)
+^https?://prettier\.io(/|$)
+^https?://docs\.docker\.com(/|$)
+^https?://docs\.conda\.io(/|$)
+^https?://containers\.dev(/|$)
+^https?://ubuntu\.com(/|$)
+^https?://fontawesome\.com(/|$)
+
+# Universities and research institutes
+^https?://www\.uni-heidelberg\.de(/|$)
+^https?://www\.cos\.uni-heidelberg\.de(/|$)
+^https?://www\.dkfz\.de(/|$)
+^https?://www\.ghga\.de(/|$)
+^https?://www\.lncc\.br(/|$)
+^https?://www\.unb\.br(/|$)
+^https?://pesc\.coppe\.ufrj\.br(/|$)
+^https?://voices\.uchicago\.edu(/|$)
+^https?://www\.dagstuhl\.de(/|$)
+^https?://elixir-europe\.org(/|$)
+^https?://www\.nfdi4plants\.org(/|$)
