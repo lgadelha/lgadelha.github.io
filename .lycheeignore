@@ -1,2 +1,4 @@
 # Blocks requests from GitHub Actions runners (401)
 https://unsplash\.com/?
+# Returns 502 to the link checker
+https://www\.uni-jena\.de/?
