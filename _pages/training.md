@@ -39,6 +39,25 @@ Workshop co-taught with Cora Assmann and Jitendra Gaikwad, offered through the U
 
 - Topics: basic definitions in research data management and the research data life cycle
 
+### Microverse Research Data Management Workshop: OMERO Tutorial
+
+**2022** - University of Jena
+
+Bring-your-own-data workshop on managing microscopy images with OMERO, co-taught with Aurélie Jost and Patrick Then (Microverse Imaging Center), September 30, 2022.
+
+- Topics: research data management and good scientific practice, the Microverse research data management infrastructure, microscopy data, and the Open Microscopy Environment (OME) and OMERO
+- Hands-on session: importing images with OMERO.insight, searching, viewing images with OMERO.iviewer, and annotating images with tags and key-value metadata
+- [Event page](https://www.microverse-cluster.de/de/events/data-management-workshop-omero-tutorial.html)
+
+### Bring Your Own Metabolomic Data
+
+**2021** - University of Jena
+
+Bring-your-own-data workshop on sharing metabolomics data for researchers in the Cluster of Excellence Balance of the Microverse, co-taught with Maria Sorokina, June 1, 2021.
+
+- Topics: minimum reporting standards for metabolomics data, the ISA-Tab metadata format, metabolomics and generalist repositories, and publishing data and data papers
+- Hands-on session: preparing a submission to the MetaboLights repository
+
 ### Microverse Course: Research Data Management
 
 **2021** - University of Jena, online
