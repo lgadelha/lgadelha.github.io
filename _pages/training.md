@@ -96,12 +96,6 @@ Co-instructor (with Maria Luiza Mondelli) for the module "Scientific Workflows i
 
 ---
 
-## Panels
-
-- **How can data management initiatives facilitate environmental sustainability in the tropics?** Panel at the ZMT Alumni Conference, Leibniz Centre for Tropical Marine Research, March 17, 2021 ([event page](https://www.leibniz-zmt.de/en/news-at-zmt/events/panel-zmt-alumni-conference-2021.html))
-
----
-
 ## Academic Teaching
 
 ### National Laboratory for Scientific Computing (LNCC), Brazil
