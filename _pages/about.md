@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Data Management · FAIR Workflows · Data Infrastructure
+subtitle: Research Data Management - FAIR Workflows - Data Infrastructure
 
 profile:
   align: right
